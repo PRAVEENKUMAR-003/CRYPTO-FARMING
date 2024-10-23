@@ -1,4 +1,4 @@
-# 🌾 Empowering Farmers: Resilient Agriculture Platform 🚀
+# 🌾 Empowering Farmers: Resilient Agriculture Platform🚀
 
 A blockchain-based platform leveraging IoT, AI, and advanced data tools to secure farmer livelihoods through transparent insurance and risk management.
 
